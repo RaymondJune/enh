@@ -18,6 +18,7 @@ alias pg_start="launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.p
 alias pg_stop="launchctl unload ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist"
 alias vrc='vim ~/.bashrc'
 alias vp='vim ~/.bash_profile'
+alias va='vim ~/.aliases'
 
 # IP addresses
 alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
